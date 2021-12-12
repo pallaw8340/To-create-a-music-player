@@ -18,7 +18,7 @@ The app will be available in Google Play Store soon.
 Comming soon
 ```
 ### APK
-Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/raw/master/Music_player_v1_3.apk)
+Download apk file here [Music player v1.3]git@github.com:pallaw8340/To-create-a-music-player.git
 ```
 https://github.com/dtrung98/Source/raw/master/music_player_v1_2.apk
 ```
